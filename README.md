@@ -17,5 +17,5 @@ We connected the potentiometer, LED, resistor and battery on a breadboard. We ga
 # 4\. Conclusion:
 
 This project helped us understand the working of a potentiometer, LED brightness control, resistance variation and proper breadboard connections.
-
+![Result](potentiometer_with_led.jpeg)
 ## 
